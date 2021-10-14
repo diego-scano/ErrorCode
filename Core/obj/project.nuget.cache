@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Bn/RQnmAFDzsbdDHFn7CJT3gbhLd6XBSy6aMcAtFALVg45njR0+BgfuJq1d5kFTzK030TSGUR1S1aXuFRf77Ew==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\diego.scano\\source\\repos\\WebAPI\\Core\\Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\diego.scano\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\diego.scano\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
